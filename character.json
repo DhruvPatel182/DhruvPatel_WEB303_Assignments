@@ -1,0 +1,60 @@
+{
+"Actors":[
+    {
+        "firstName":"Moiraine",
+        "lastName":" sedai",
+        "PlayedBy":"Rosamund Pike",
+        "CharacterType":"main",
+        "rating":"9"
+    },
+    {
+        "firstName":"Egwane",
+        "lastName":" al'vere",
+        "PlayedBy":"Madeleine Madden",
+        "CharacterType":"main",
+        "rating":"8"
+    },
+    {
+        "firstName":"Perrin",
+        "lastName":" Aybara",
+        "PlayedBy":"Marcus Ruthorford",
+        "CharacterType":"main",
+        "rating":"7"
+    },
+    {
+        "firstName":"Tam",
+        "lastName":"al'Thor",
+        "PlayedBy":"michael McElhatton",
+        "CharacterType":"TwoRiverCharacter",
+        "rating":"8"
+    },
+    {
+        "firstName":"Ihvon",
+        "lastName":"sedai",
+        "PlayedBy":"Emmuanuel Imani",
+        "CharacterType":"AesSedaiAndWarders",
+        "rating":"7"
+    },
+    {
+        "firstName":"Rand",
+        "lastName":"al'thore",
+        "PlayedBy":"Josha StradoWaski",
+        "CharacterType":"main",
+        "rating":"9"
+    },
+    {
+        "firstName":"Aram",
+        "lastName":"Tinker",
+        "PlayedBy":"DarylMcCormack",
+        "CharacterType":"TwoRiverCharacter",
+        "rating":"7"
+    },
+    {
+        "firstName":"Logain",
+        "lastName":"Dragon",
+        "PlayedBy":"Alvaro Morte",
+        "CharacterType":"FakeDragon",
+        "rating":"8"
+    }   
+]
+}
