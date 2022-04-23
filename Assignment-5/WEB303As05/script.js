@@ -56,8 +56,14 @@ Items = [
          return ("<h2 class='" +this.name + "'></h2><br><h2 class='" +this.Description + "'></h2><br><h2 class='" +this.CatName + "'></h2>")
     }
 
-    $("div#content-item-list").wrap("<div class='" +this.id "'> </div>");
-    
+    for(i = 0; i < Items.length; i++){
+        $('#content-item-list').append(
+    '<div class ="content-item-wrapper"id= "content-item-' +Items[i].id +'">'+
+     '<h4>name:- '+ Items[i].name+'</h4>'+
+     '<p>description :- '+ Items[i].description+' </p>'+
+     '<div>genre :- '+ Items[i].genre+' </div>'+
+      '</div>');
+    };
     
     
 });
